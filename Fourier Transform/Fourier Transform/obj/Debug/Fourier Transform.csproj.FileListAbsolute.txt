@@ -1,0 +1,49 @@
+H:\Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.exe.config
+H:\Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.exe
+H:\Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.pdb
+H:\Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csprojAssemblyReference.cache
+H:\Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier_Transform.Form1.resources
+H:\Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier_Transform.Properties.Resources.resources
+H:\Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.GenerateResource.cache
+H:\Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.CoreCompileInputs.cache
+H:\Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.exe
+H:\Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.pdb
+F:\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.exe.config
+F:\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.exe
+F:\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.pdb
+F:\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csprojAssemblyReference.cache
+F:\Fourier Transform\Fourier Transform\obj\Debug\Fourier_Transform.Form1.resources
+F:\Fourier Transform\Fourier Transform\obj\Debug\Fourier_Transform.Properties.Resources.resources
+F:\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.GenerateResource.cache
+F:\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.CoreCompileInputs.cache
+F:\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.exe
+F:\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.pdb
+F:\Fourier Transform\Fourier Transform\bin\Debug\NAudio.dll
+F:\Fourier Transform\Fourier Transform\bin\Debug\NAudio.xml
+F:\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.CopyComplete
+F:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.exe.config
+F:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.exe
+F:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.pdb
+F:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\NAudio.dll
+F:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\NAudio.xml
+F:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csprojAssemblyReference.cache
+F:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier_Transform.Form1.resources
+F:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier_Transform.Properties.Resources.resources
+F:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.GenerateResource.cache
+F:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.CoreCompileInputs.cache
+F:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.CopyComplete
+F:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.exe
+F:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.pdb
+E:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.exe.config
+E:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.exe
+E:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\Fourier Transform.pdb
+E:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\NAudio.dll
+E:\2019 Programming\Fourier Transform\Fourier Transform\bin\Debug\NAudio.xml
+E:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csprojAssemblyReference.cache
+E:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier_Transform.Form1.resources
+E:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier_Transform.Properties.Resources.resources
+E:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.GenerateResource.cache
+E:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.CoreCompileInputs.cache
+E:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.csproj.CopyComplete
+E:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.exe
+E:\2019 Programming\Fourier Transform\Fourier Transform\obj\Debug\Fourier Transform.pdb
