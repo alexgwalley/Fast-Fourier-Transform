@@ -8,3 +8,5 @@ one may reconvert the frequencies back into a .wav file.
 -Basic Windowing techniques such as Hanning, Hamming, Circle, and Blackman-Harris.
 
 -You may also save and open files.
+
+<img src="image.png"></img>
